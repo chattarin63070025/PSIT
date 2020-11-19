@@ -24,7 +24,7 @@
 						<div class="table-responsive">
 							<?php
 								$conn = mysqli_init();
-								mysqli_real_connect($conn, 'suphafang.mysql.database.azure.com', 'suphafang@suphafang', 'Fang2545', 'ITFLab', 3306);
+								mysqli_real_connect($conn, 'chattarin.mysql.database.azure.com', 'chattarin@chattarin', 'Save63070025', 'ITFLab', 3306);
 								if (mysqli_connect_errno($conn))
 								{
 								    die('Failed to connect to MySQL: '.mysqli_connect_error());
@@ -34,10 +34,10 @@
 							<table class="table table-borderless table-hover">
 								<thead>
 									<tr>
-										<th width="150px">Action</th>
-										<th>Name</th>
-										<th>Comment</th>
-										<th>Link</th>
+										<th width="150px">ทำไรดี?</th>
+										<th>ชื่อ</th>
+										<th>แสดงความคิดเห็น</th>
+										<th>ลิ้ง</th>
 									</tr>
 								</thead>
 								<tbody>
