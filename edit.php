@@ -1,5 +1,5 @@
 <?php
-	$conn = mysqli_connect('suphafang.mysql.database.azure.com', 'suphafang@suphafang', 'Fang2545', 'ITFLab');
+	$conn = mysqli_connect('chattarin.mysql.database.azure.com', 'chattarin@chattarin', 'Save63070025', 'ITFLab');
 
 	$id = $_GET['ID'];
 
