@@ -26,7 +26,7 @@
 								<input type="text" name="name" class="form-control" required>
 							</div>
 							<div class="form-group">
-								<label>Cความคิดเห็นและอื่นๆ</label>
+								<label>ความคิดเห็นและอื่นๆ</label>
 								<textarea name="comment" class="form-control" rows="5" required></textarea>
 							</div>
 							<div class="form-group">
