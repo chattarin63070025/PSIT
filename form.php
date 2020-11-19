@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>Add | 13th ITF LAB</title>
+	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css">
 	<style type="text/css">
@@ -21,15 +22,15 @@
 						</div>
 						<form action="insert.php" method="post">
 							<div class="form-group">
-								<label>Name</label>
+								<label>ชื่อและนามสกุล ของท่าน</label>
 								<input type="text" name="name" class="form-control" required>
 							</div>
 							<div class="form-group">
-								<label>Comment</label>
+								<label>Cความคิดเห็นและอื่นๆ</label>
 								<textarea name="comment" class="form-control" rows="5" required></textarea>
 							</div>
 							<div class="form-group">
-								<label>Link</label>
+								<label>ลิ้งของท่าน</label>
 								<input type="text" name="link" class="form-control">
 							</div>
 							<div class="text-center">
