@@ -6,7 +6,7 @@
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css">
 	<style type="text/css">
 		.card {
-			border-top: solid 5px #ff33ab;
+			border-top: solid 5px #ff0096;
 		}
 	</style>
 </head>
