@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Database | 13th ITF LAB</title>
+	<title>Database | 19 ITF LAB</title>
+	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css">
 	<style type="text/css">
 		.card {
-			border-top: solid 5px #ff0096;
+			border-top: solid 5px #00C0FF;
 		}
 	</style>
 </head>
